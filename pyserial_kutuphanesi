@@ -1,1 +1,3 @@
-blabla
+    Bu projede pyserial kütüphanesini kullanarak bilgisayarımın usb portuna gelen bilgiyi okumayı hedefledim. Usb portuna veri göndermek için ardunio ile uart haberleşmesi 
+    kullandım. Uart haberleşmesi aracılığı ile gelen veri UTF-8 e göre decode edildikten sonra str veya float olarak kullanılabilir. Veri haline geldiğindden dolayı Sql serverına kayıt edilebilir veya tkinter kütüphanesi 
+    yardımı ile kullanıcı arayüzü yapılabilir.  
